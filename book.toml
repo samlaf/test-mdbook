@@ -1,0 +1,6 @@
+[book]
+authors = ["Samuel Laferriere"]
+language = "en"
+multilingual = false
+src = "src"
+title = "test"
